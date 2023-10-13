@@ -1,16 +1,7 @@
-
-
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 10",TUDN XTRA 
-http://bgaddon26.000webhostapp.com/tl.php?ch=tudn-xtra-en-vivo&token=black
 
-************************  30/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-
-#EXTINF:-1 group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
-#EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0", Cine Estelar ⁽HD⁾
+#EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0", Cine Estelar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0", Cinema DC Comics ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318470
@@ -3964,7 +3955,3 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225063
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225064
 #EXTINF:-1 group-title="|ESP| Eventos", tvg-logo="https://png.pngtree.com/png-vector/20221113/ourmid/pngtree-football-logo-png-image_6433247.png", EVENTOS 03
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225065
-
-******************************* DEPORTES **********************************************
-#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=932261491&_cdn_timestamp=1688435358&_cdn_token=a044d00a7b5e7f1637211019f14ffbdf972961d4
