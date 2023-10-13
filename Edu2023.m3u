@@ -2,11 +2,16 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 10", TUDN XTRA 
+#EXTINF:-1 group-title="Lista 10", por fin 
 http://bgaddon26.000webhostapp.com/tl.php?ch=tudn-xtra-en-vivo&token=black
 
-#EXTINF:-1 group-title="Lista 10",TUDN XTRA 
+#EXTINF:-1 group-title="Lista 10",nel
+http://bgaddon26.000webhostapp.com/tl.php?ch=tudn-xtra-en-vivo&token=black
+
 #EXTINF:-1 group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
+
+#EXTINF:-1 group-title="✅ 24/7 Cine", Cine Estelar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
 
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0", Cine Estelar ⁽ᴴᴰ⁾
