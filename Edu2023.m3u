@@ -2,17 +2,14 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 10", por fin 
+#EXTINF:-1 group-title="Lista 10",TUDN XTRA 
 http://bgaddon26.000webhostapp.com/tl.php?ch=tudn-xtra-en-vivo&token=black
 
-#EXTINF:-1 group-title="Lista 10",nel
-http://bgaddon26.000webhostapp.com/tl.php?ch=tudn-xtra-en-vivo&token=black
-
-#EXTM3U
+************************  30/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
-
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0", Cine Estelar ⁽HD⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0", Cinema DC Comics ⁽ᴴᴰ⁾
@@ -347,13 +344,10 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=721112&extension=ts&play_token=5Tkgi9r7W7
 #EXTINF:-1 group-title="⭐️ Tv Deporte España", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySXvUknOAvVQy-obRACC--spZt1jievcr-A&usqp=CAU", ES | GOL PLAY
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505614&extension=ts&play_token=yhindZAq4D
-#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos",, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU", DAZN MOVISTAR 4
+#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU", DAZN MOVISTAR 4
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35234.ts
 #EXTINF:-1 group-title="⭐️ Tv Dazn Eventos", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU", DAZN MOVISTAR F1
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35288.ts
-
-**
-
 #EXTINF:-1 group-title="|MEX| Deportes", tvg-logo="https://static.epg.best/mx/FoxSports.mx.png",  FOX SPORTS MEXICO [SD]
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/284
 #EXTINF:-1 group-title="|MEX| Deportes", tvg-logo="https://static.epg.best/mx/FoxSports.mx.png", FOX SPORTS 1 MX [FHD]
@@ -392,9 +386,6 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/397
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/27857
 #EXTINF:-1 group-title="|MEX| Deportes", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png", AFIZZIONADOS HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/146526
-
-
-
 #EXTINF:-1 group-title="|TUDN Extra| Deportes", tvg-logo="https://static.epg.best/us/TUDN.us.png", TUDN XTRA 1
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27902
 #EXTINF:-1 group-title="|TUDN Extra| Deportes", tvg-logo="https://static.epg.best/us/TUDN.us.png", TUDN XTRA 2
@@ -721,7 +712,6 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/27873
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/35187
 #EXTINF:-1 group-title="|LAT| Tigo Sports", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png", TIGO SPORT (GUA) [HD]
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/26141
-
 #EXTINF:-1 group-title="|USA| Deportes", |US| NFL NETWORK HD
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/220259
 #EXTINF:-1 group-title="|USA| Deportes", |US| NBA TV FHD
@@ -1052,8 +1042,6 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/222396
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/222397
 #EXTINF:-1 group-title="|USA| Deportes", tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Symbol.png", ESPN U４PORTS USA
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/222398
-
-
 #EXTINF:-1 group-title="|LAT| TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/640px-Logo-ForoTV-2020.png", FORO_HD
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181504
 #EXTINF:-1 group-title="|LAT| TV", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es", TVN_HD
@@ -1248,7 +1236,7 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181576
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181578
 #EXTINF:-1 group-title="|LAT| TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png", FOX_NEWS_HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181579
-#EXTINF:-1 group-title="|LAT| TV",, tvg-logo="https://static.wixstatic.com/media/5aa027_d383b23fb36743e2923c1aaad254de98.png/v1/fill/w_980,h_233,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5aa027_d383b23fb36743e2923c1aaad254de98.png", WOBI_HD
+#EXTINF:-1 group-title="|LAT| TV", tvg-logo="https://static.wixstatic.com/media/5aa027_d383b23fb36743e2923c1aaad254de98.png/v1/fill/w_980,h_233,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5aa027_d383b23fb36743e2923c1aaad254de98.png", WOBI_HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181580
 #EXTINF:-1 group-title="|LAT| TV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN_ESPAﾃ前L_HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181582
@@ -1898,7 +1886,7 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/409
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/410
 #EXTINF:-1 group-title="|MEX| Cultura", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK HD (N)
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/81554
-#EXTINF:-1 group-title="|MEX| Cultura",, FILM&ARTS_HD
+#EXTINF:-1 group-title="|MEX| Cultura", FILM&ARTS_HD
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/181562
 #EXTINF:-1 group-title="|MEX| Cultura", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png", SUN CHANNEL HD
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/218460
@@ -1996,7 +1984,7 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/409
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/410
 #EXTINF:-1 group-title="|MEX| Cultura", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK HD (N)
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/81554
-#EXTINF:-1 group-title="|MEX| Cultura",, FILM&ARTS_HD
+#EXTINF:-1 group-title="|MEX| Cultura", FILM&ARTS_HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/181562
 #EXTINF:-1 group-title="|MEX| Cultura", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png", SUN CHANNEL HD
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/218460
@@ -3000,7 +2988,7 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1501
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1505
 #EXTINF:-1 group-title="TV SERIES 24/7", tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg", 24/7 SERIES TERROR | FROM DUSK TILL DAWN THE SERIES
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1506
-#EXTINF:-1 group-title="TV SERIES 24/7",, tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg", 24/7 SERIES TERROR | ESCALOFRIOS
+#EXTINF:-1 group-title="TV SERIES 24/7", tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg", 24/7 SERIES TERROR | ESCALOFRIOS
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1508
 #EXTINF:-1 group-title="TV SERIES 24/7", tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt", 24/7 SERIES TERROR | CATLE ROCK
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/1511
@@ -3976,3 +3964,7 @@ http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225063
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225064
 #EXTINF:-1 group-title="|ESP| Eventos", tvg-logo="https://png.pngtree.com/png-vector/20221113/ourmid/pngtree-football-logo-png-image_6433247.png", EVENTOS 03
 http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/225065
+
+******************************* DEPORTES **********************************************
+#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=932261491&_cdn_timestamp=1688435358&_cdn_token=a044d00a7b5e7f1637211019f14ffbdf972961d4
